@@ -1,0 +1,6 @@
+.html-class,
+.body-class,
+#__nuxt,
+#__layout {
+  height: 100%;
+}
